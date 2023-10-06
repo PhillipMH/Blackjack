@@ -29,6 +29,11 @@ Open a Pull Request
 ## Known bugs
 1. game sometimes dont end automatically.
 2. When player gets 2 aces as their start hand playersum = 22 instead of 12
+3. when player gets an ace and they hit their ace goes down to a value of 1
+
+## Blackjack house rules
+1. Dealer stand on 17.
+2. if both parties are over 21 dealer wins
 
 
 ## Contact
